@@ -4,7 +4,7 @@ public class Reverse {
     public static void main(String[] args) {
         int num=0;
         int reversenumber =0;
-     
+
         System.out.println ("Input your number: ");
     Scanner scanner = new Scanner(System.in);
 
